@@ -15,9 +15,9 @@
 	<description>Demo project for Spring Boot</description>
 	
 	<scm>
-       <connection>scm:https://github.com/jyotissingh14/INGFavBank.git</connection>
-       <url>https://github.com/jyotissingh14/INGFavBank.git</url>
-       <developerConnection>scm:git:https://github.com/jyotissingh14/INGFavBank.git</developerConnection>
+       <connection>scm:https://github.com/singh96jyoti/INGFavBank.git</connection>
+       <url>https://github.com/singh96jyoti/INGFavBank.git</url>
+       <developerConnection>scm:git:https://github.com/singh96jyoti/INGFavBank.git</developerConnection>
       <tag>HEAD</tag>
       </scm>
 
